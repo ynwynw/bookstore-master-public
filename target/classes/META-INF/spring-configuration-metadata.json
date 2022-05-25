@@ -1,0 +1,97 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "",
+      "type": "org.zdd.bookstore.pay.AlipayConfig"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info",
+      "type": "org.zdd.bookstore.config.UserResourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "alipay-public-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "app-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "charset",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "format",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "log-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "merchant-private-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "notify-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "open-api-domain",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "return-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.pay.AlipayConfig",
+      "name": "sign-type",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.active",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.business-customer",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.detail-address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.is-not-active",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.location",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.zdd.bookstore.config.UserResourceProperties",
+      "name": "user.default.info.ordinary-customer",
+      "type": "java.lang.String"
+    }
+  ]
+}
